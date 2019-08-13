@@ -1,0 +1,67 @@
+h1 {
+    font-family: "Air Compressed Regular" Italic;
+    color: #2e5a1c font-size: 70px;
+}
+
+h2 {
+    color: #b31e6f;
+}
+
+p {
+    color: #e9219c;
+}
+
+h4 {
+    font-family: "Pacifico";
+}
+
+div {
+    color: #570d57;
+}
+
+.col-md-4 {
+    border: 1px solid gray;
+}
+
+h4 {
+    font-size: 20px;
+    color: #ff9a00;
+}
+
+h5 {
+    font-style: oblique;
+    font-size: 20px;
+    color: #ff2400;
+}
+
+h6 {
+    font-style: italic;
+    font-size: 20px;
+    color: #2e5a1c;
+}
+
+.h7 {
+    font-style: italic;
+    font-size: 30px;
+    color: #658525;
+}
+
+.h8 {
+    font-style: normal;
+    text-shadow: 'underline';
+    color: rgb(240, 20, 130);
+    background-color: #ae1bdb;
+    padding: 10px 0 60px;
+}
+
+.p1 {
+    background-image: url(dry.jpg);
+}
+
+.dry1 {
+    background-attachment: url("dry1.jpg");
+    height: 30%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
